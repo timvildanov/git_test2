@@ -2,7 +2,7 @@ from aiogram import Bot, Dispatcher
 from aiogram.filters import Command
 from aiogram.types import Message
 from aiogram.types import (KeyboardButton, ReplyKeyboardRemove, ReplyKeyboardMarkup)
-BOT_TOKEN = '6844274696:AAHl9QFBXAQgjD8GhwY77Okhz-LQLxzzpQg'
+BOT_TOKEN = ''
 
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
